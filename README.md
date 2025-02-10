@@ -1,6 +1,6 @@
-Hi there 👋
+#Hi there 👋
 
--My name is Burak and I am a freshman at Bilkent University.
+-My name is Burak. I am a student at Bilkent University.
 
 -I am currently studying in the Computer Science department.
 

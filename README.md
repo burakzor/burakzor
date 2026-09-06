@@ -1,5 +1,3 @@
-Hi there 👋
-
 -My name is Burak. I am a student at Bilkent University.
 
 -I am currently studying in the Computer Science department.

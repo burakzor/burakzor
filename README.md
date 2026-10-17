@@ -2,4 +2,4 @@
 
 -I am currently studying in the Computer Science department.
 
--You can reach me through my email address: burak.zor@ug.bilkent.edu.tr.
+-You can reach me through my email address: burakylmzzor@gmail.com

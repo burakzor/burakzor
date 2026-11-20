@@ -1,5 +1,2 @@
--My name is Burak. I am a student at Bilkent University.
-
--I am currently studying in the Computer Science department.
-
--You can reach me through my email address: burakylmzzor@gmail.com
+#I am Burak, studying Computer Science and pursuing my goals.
+You can reach me through my email address: burakylmzzor@gmail.com
